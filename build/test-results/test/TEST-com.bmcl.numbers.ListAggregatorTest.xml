@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bmcl.numbers.ListAggregatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-11-14T17:24:38" hostname="LP-HMORAIS" time="0.026">
+  <properties/>
+  <testcase name="distinctWithDuplicatesBug8726()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.013"/>
+  <testcase name="maxWithNegativeNumbers()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="sumWithEmptyList()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="distinctWithDuplicates()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="max()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="min()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="sum()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="distinct()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="maxWithNegativeNumbersBug7263()" classname="com.bmcl.numbers.ListAggregatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

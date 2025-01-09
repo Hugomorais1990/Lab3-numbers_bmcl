@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bmcl.numbers.ListSorterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-11-14T17:24:38" hostname="LP-HMORAIS" time="0.013">
+  <properties/>
+  <testcase name="sortEmptyList()" classname="com.bmcl.numbers.ListSorterTest" time="0.003"/>
+  <testcase name="sortDescendingList()" classname="com.bmcl.numbers.ListSorterTest" time="0.002"/>
+  <testcase name="sort()" classname="com.bmcl.numbers.ListSorterTest" time="0.001"/>
+  <testcase name="sortSingleElementList()" classname="com.bmcl.numbers.ListSorterTest" time="0.001"/>
+  <testcase name="sortListWithNegativeNumbers()" classname="com.bmcl.numbers.ListSorterTest" time="0.001"/>
+  <testcase name="sortListWithDuplicates()" classname="com.bmcl.numbers.ListSorterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
